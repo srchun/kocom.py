@@ -4,6 +4,7 @@
 
 ## About
 Kocom Wallpad with RS485
+(2024-08-07) srchun 설치용
 
 ## Installation
 
